@@ -1,0 +1,23 @@
+.itens{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item{
+    width: 100px;
+    margin:20px
+}
+
+.item img{
+    width: 80px;
+}
+
+.config{
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
+
+.config img{
+    width: 50px;
+}
